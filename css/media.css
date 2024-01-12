@@ -1,0 +1,90 @@
+@media (max-width:991px){
+    .header__menu-nav{
+        padding-top: 5px;
+    }
+    
+    .header__text-block{
+        padding-top: 70px
+    }
+    
+    .header__text-h{
+        font-size: 38px;
+    }
+    
+    .header__text-p{
+        font-size: 17px
+    }
+    
+    .header__nav-link{
+        margin-top: 15px;
+    }
+    .header__nav-link-icon2{
+        margin-top: 15px;
+    }
+    .header__nav-link-icon{
+        margin-top: 15px;
+    }
+    .tab__buy{
+        flex-direction: column;
+    }
+    .tab__buy-a{
+        margin-top: 15px;
+    }
+}
+
+@media (max-width:767px){
+    .footer_box{
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width:404px){
+    .header__text-h{
+        font-size: 28px;
+    }
+    
+    .header__text-p{
+        font-size: 12px
+    }
+    
+    .tab__other{
+        font-size: 33px; 
+    }
+    
+    .tab__block{
+        margin-top: 30px;
+    }
+    
+    .gall__text{
+        font-size: 33px;  
+    }
+    
+    .main__aa{
+        font-size: 19px;
+    }
+    
+    .main__iconbox{
+        flex-wrap: wrap;
+    }
+    
+    .footer__ico{
+        margin: 10px 5px 0 0;
+    }
+    
+    .footer__text{
+        font-size: 20px;
+    }
+    
+    .footer__p{
+        font-size: 16px;
+    }
+    
+    .footer__tel{
+        font-size: 16px;
+    }
+    
+    .content {
+        padding-top: 73px;
+        padding-bottom: 73px;
+    }
+}
